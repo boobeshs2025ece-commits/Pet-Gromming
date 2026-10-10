@@ -1,0 +1,9 @@
+Place the MySQL JDBC driver in this folder with EXACTLY this name:
+
+    mysql-connector-j-8.0.33.jar
+
+Download (one time):
+https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+
+(On Windows, run.bat downloads it automatically if it is missing.)
+After copying: Eclipse > right-click project > Refresh (F5).
